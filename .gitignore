@@ -3,3 +3,4 @@
 venv/
 *.d2v
 *.npy
+*.env
