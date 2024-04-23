@@ -8,6 +8,11 @@ The first draft sorts patent titles by category based on word similarity using w
 
 The second draft uses OpenAI's API to categorize the patent titles.
 
+Third draft includes categorization with Bart MNLI from Hugging Face, and OpenAI implementation with LangChain.
+
+## Results
+[Patent Titles Sorted](./example_titles_sorted3.csv)
+
 ## Virtual Environment (1st draft)
 python3 -m venv ENV_DIR
 . ./venv/bin/activate
